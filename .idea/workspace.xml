@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eeee34d-9edb-4fba-ac14-29f8fadcdc77" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/building/spire.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/building/bigCrater.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/building/crater.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,11 +60,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spire.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="spire.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/building/spire.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
-              <caret line="21" column="45" lean-forward="false" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+              <caret line="21" column="62" lean-forward="true" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crater.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/building/crater.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bigCrater.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/building/bigCrater.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -82,6 +103,8 @@
         <option value="$PROJECT_DIR$/teleportation/random_teleport.py" />
         <option value="$PROJECT_DIR$/building/simple_structure.py" />
         <option value="$PROJECT_DIR$/building/spire.py" />
+        <option value="$PROJECT_DIR$/building/crater.py" />
+        <option value="$PROJECT_DIR$/building/bigCrater.py" />
       </list>
     </option>
   </component>
@@ -469,7 +492,23 @@
     <entry file="file://$PROJECT_DIR$/building/spire.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="21" column="45" lean-forward="false" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+          <caret line="21" column="62" lean-forward="true" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/building/crater.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/building/bigCrater.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
           <folding />
         </state>
       </provider>
