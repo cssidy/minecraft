@@ -1,6 +1,6 @@
 # Shopping List
 This is a complete list of materials that I purchased from New Egg to have a working Raspberry Pi.
-Expect to spend between, $85 - $235, depending upon how much you already own.
+Expect to spend between $85 - $235, depending upon how much you already own.
 
 ## Vital Raspberry Pi components
 
