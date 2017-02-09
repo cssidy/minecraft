@@ -2,7 +2,24 @@
 
 # Raspbian
 
+Download the image file from the [Raspbian website](https://www.raspberrypi.org/downloads/raspbian/), then extracted it from the torrent/zip folder it came in.
+
+Insert the blank 8GB micro SD card into the SD card adapter and insert the conjoined pair into the desktop's SD card slot reader.
+
+With the Make Startup Disk utility, which comes preinstalled in the Ubuntu GUI, choose the Raspbian .img file (2016-09-23-raspbian-jessie.img) from your folders and select the appropriate SD 
+card destination. Click the start button, then wait a couple minutes for the SD card to finish formatting. 
+
+Alternatively, you can create a bootable SD card in the Linux command line, where 'user' is your user account, and '/dev/sdb' is the path to your SD card. I am not sure how this differs from Windows or Mac environments, so you should research the correct syntax if that's what you are using.
+
+```
+sudo dd bs=4M if=/home/user/Downloads/2016-09-23-raspbian-jessie.img of=/dev/sdb
+```
+
+Remove the SD card from the desktop computer and remove the micro SD card from the adapter. Insert the micro SD card into the Raspberry Pi 3. If you boot up your Pi, the OS should install.
+
 # Ubuntu MATE
+
+To install Ubuntu MATE, follow the directions above for Raspbian, but instead load a MATE image file onto the micro SD card.
 
 ## Resize File System
 
