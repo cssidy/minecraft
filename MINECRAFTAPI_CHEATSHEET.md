@@ -1,6 +1,8 @@
 # Minecraft API Cheatsheet
 The following is a quick reference guide for the Minecraft Python API Library that you may need.
 
+![Controls reference](https://arghbox.files.wordpress.com/2013/07/minecraft-pi-controls.png "Controls reference")
+
 ## Creating Blocks
 
 ### Of a specific type
