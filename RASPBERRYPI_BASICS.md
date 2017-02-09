@@ -6,7 +6,7 @@ You can purchase a micro SD card with Raspbian pre-installed, or create your own
 
 ![Raspbian desktop](http://robertan.com/home/wp-content/uploads/2016/04/raspbian.png "Raspbian desktop")
 
-Download the image file from the [Raspbian website](https://www.raspberrypi.org/downloads/raspbian/), then extracted it from the torrent/zip folder it came in.
+Download the image file from the [Raspbian website](https://www.raspberrypi.org/downloads/raspbian/), then extract it from the torrent/zip folder it came in.
 
 Insert the blank 8GB micro SD card into the SD card adapter and insert the conjoined pair into the desktop's SD card slot reader.
 
