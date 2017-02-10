@@ -5,7 +5,7 @@ Expect to spend between $85 - $235, depending upon how much you already own.
 ## Vital Raspberry Pi components
 
 * 1 x [Raspberry Pi 3 Model B](https://www.newegg.com/Product/Product.aspx?Item=N82E16813300007) - $36.99
-* 1 x [5V 2A Micro USB charger adapter cable power supply](https://www.newegg.com/Product/Product.aspx?Item=9SIA7252YY2837) - $7.59
+* 1 x [5V 2A Micro USB power supply](https://www.newegg.com/Product/Product.aspx?Item=9SIA7252YY2837) - $7.59
 * 1 x [SanDisk 8GB microSD card](https://www.newegg.com/Product/Product.aspx?Item=9SIA12K2S87401) - $13.75
 * 1 x [Rosewill high speed HDMI cable M-M](https://www.newegg.com/Product/Product.aspx?Item=N82E16882021128) - $3.99 
 * 1 x Monitor/screen with female HDMI port
