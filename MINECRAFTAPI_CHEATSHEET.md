@@ -17,6 +17,8 @@ blockObj = block.Block(id, data)
 
 ### Block IDs:
 
+These are come useful Block ID's. [Here is the complete list](http://minecraft-ids.grahamedgecombe.com/) of Block ID's, some of which are not compatible with Pi Edition. Experiment and see what works.
+
 * AIR                 = Block(0)
 * STONE               = Block(1)
 * GRASS               = Block(2)
