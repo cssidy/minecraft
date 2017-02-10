@@ -1,8 +1,30 @@
 # Raspberry Pi 3 Basics
 
+The Raspberry Pi 3 is the third generation Raspberry Pi. It replaced the Raspberry Pi 2 Model B in February 2016. Compared to the Raspberry Pi 2 it has:
+
+* A 1.2GHz 64-bit quad-core ARMv8 CPU
+* 802.11n Wireless LAN
+* Bluetooth 4.1
+* Bluetooth Low Energy (BLE)
+
+Like the Pi 2, it also has:
+
+* 1GB RAM
+* 4 USB ports
+* 40 GPIO pins
+* Full HDMI port
+* Ethernet port
+* Combined 3.5mm audio jack and composite video
+* Camera interface (CSI)
+* Display interface (DSI)
+* Micro SD card slot (now push-pull rather than push-push)
+* VideoCore IV 3D graphics core
+
 # Raspbian
 
-You can purchase a micro SD card with Raspbian pre-installed, or create your own.
+Raspbian is the Foundation’s official supported operating system. Raspbian comes pre-installed with plenty of software for education, programming and general use. It has Python, Scratch, Sonic Pi, Java, Mathematica and more.
+
+You can purchase a micro SD card (NOOBS) with Raspbian pre-installed, or create your own.
 
 ![Raspbian desktop](http://robertan.com/home/wp-content/uploads/2016/04/raspbian.png "Raspbian desktop")
 
