@@ -13,7 +13,7 @@ What's the best way to learn Python and play video games at the same time? Raspb
 
 ## Code Example
 
-The code in this repository is Python 3.5. However, there are languages that are compatible with Minecraft: Pi Edition including:
+The code in this repository is Python 3.5. However, there are other languages that are compatible with Minecraft: Pi Edition including:
 
 1. Java
 2. [Node.js](https://npmjs.org/package/minecraft-pi)
