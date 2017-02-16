@@ -13,6 +13,14 @@ What's the best way to learn Python and play video games at the same time? Raspb
 
 ## Code Example
 
+The code in this repository is Python 3.5. However, there are languages that are compatible with Minecraft: Pi Edition including:
+
+1. Java
+2. [Node.js](https://npmjs.org/package/minecraft-pi)
+3. [Smalltalk](http://croquetweak.blogspot.ca/2013/02/smalltalk-bindings-for-minecraft-pi.html)
+4. [Ruby](https://github.com/nhajratw/minecraft_api)
+5. [Haskell](https://github.com/DougBurke/hmcpi)
+
 ## Prerequisites
 
 To experiment with these programs, you will need to have a compatible version of Python 3 (Python 3.5 is used here) and Minecraft: Pi Edition installed on your system. You will also need an IDE. It does not have to be complex; the Python IDLE console is suitable for interacting with the game. If you are using the Raspberry Pi 3 Model B, you're all set.
