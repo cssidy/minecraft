@@ -7,7 +7,6 @@ What's the best way to learn Python and play video games at the same time? Raspb
 * Code Example
 * Prerequisites
 * Installation
-* API Reference
 * License
 * Acknowledgments
 
@@ -63,7 +62,7 @@ git clone https://github.com/cssidy/minecraft-hacks
 
 ### Open Scripts In IDLE
 
-## API Reference
+
 
 ## License
 
