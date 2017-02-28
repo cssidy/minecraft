@@ -21,6 +21,22 @@ The code in this repository is Python 3.5. However, there are other languages th
 4. [Ruby](https://github.com/nhajratw/minecraft_api)
 5. [Haskell](https://github.com/DougBurke/hmcpi)
 
+The aim is to learn how to connect to the Minecraft API and understand common methods that allow changing block types, setting and removing blocks, and changing the player's tile coordinate position. For example, the following script changes the player's position in the world:
+
+```
+# Connect to Minecraft
+from mcpi.minecraft import Minecraft
+mc = Minecraft.create()
+
+# Set x, y, and z variables to represent coordinates
+x = 10
+y = 110
+z = 12
+
+# Change the player's position
+mc.player.setTilePos(x, y, z)
+```
+
 ## Prerequisites
 
 To experiment with these programs, you will need to have a compatible version of Python 3 (Python 3.5 is used here) and Minecraft: Pi Edition installed on your system. You will also need an IDE. It does not have to be complex; the Python IDLE console is suitable for interacting with the game. If you are using the Raspberry Pi 3 Model B, you're all set.
