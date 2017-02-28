@@ -12,14 +12,6 @@ What's the best way to learn Python and play video games at the same time? Raspb
 
 ## Code Example
 
-The code in this repository is Python 3.5. However, there are other languages that are compatible with Minecraft: Pi Edition including:
-
-1. Java
-2. [Node.js](https://npmjs.org/package/minecraft-pi)
-3. [Smalltalk](http://croquetweak.blogspot.ca/2013/02/smalltalk-bindings-for-minecraft-pi.html)
-4. [Ruby](https://github.com/nhajratw/minecraft_api)
-5. [Haskell](https://github.com/DougBurke/hmcpi)
-
 The aim is to learn how to connect to the Minecraft API and understand common methods that allow changing block types, setting and removing blocks, and changing the player's tile coordinate position. For example, the following script changes the player's position in the world:
 
 ```
@@ -35,6 +27,13 @@ z = 12
 # Change the player's position
 mc.player.setTilePos(x, y, z)
 ```
+The code in this repository is Python 3.5. However, there are other languages that are compatible with Minecraft: Pi Edition including:
+
+1. Java
+2. [Node.js](https://npmjs.org/package/minecraft-pi)
+3. [Smalltalk](http://croquetweak.blogspot.ca/2013/02/smalltalk-bindings-for-minecraft-pi.html)
+4. [Ruby](https://github.com/nhajratw/minecraft_api)
+5. [Haskell](https://github.com/DougBurke/hmcpi)
 
 ## Prerequisites
 
