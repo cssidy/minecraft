@@ -62,7 +62,7 @@ git clone https://github.com/cssidy/minecraft-hacks
 
 ### Open Scripts In IDLE
 
-
+Have the Python IDLE console open while you play Minecraft: Pi Edition. Press <tab> on your keyboard to release the cursor from the Pi and enter your scripts directly into the IDLE console. Press <enter> to put them into effect. For some scripts, it is more efficient to create a .py file and import it into the console to be run.
 
 ## License
 
