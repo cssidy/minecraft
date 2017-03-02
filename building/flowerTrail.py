@@ -1,3 +1,6 @@
+# as seen in Learn To Program With Minecraft: Transform Your World With The Power of Python, written by Craig Richardson
+
+
 from mcpi.minecraft import Minecraft
 import time
 
